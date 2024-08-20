@@ -1,4 +1,6 @@
 # Stock Price Prediction
+## Introduction
+Year 3 University group project created by: Giri Kankatharan, Oliver Pulle, Rishabh Soni and Steven Li.
 
 ## Table of Contents
 - [Overview](#Overview)
