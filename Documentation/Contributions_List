@@ -1,0 +1,87 @@
+Giri Kankatharan
+    Project management
+    Poster
+    Abstract
+    Research
+    Real-time stock price
+    Setting/Transcribing meetings
+    Taking minutes for meeting
+    Initial UI designs and implementation for Dash interface
+    Graph loading
+    Commented Code
+    Creating/Managed the technical report
+
+    Technical Report:
+        Abstract
+
+    Assisted in:
+        ReadMe.md
+        Attempted ChatGpt
+
+
+Oliver Pulley
+    Initial UI designs for the original user inerface(before initalising Dash)
+    Poster
+    Abstract
+    Research
+
+    Technical Report:
+        ~Validation Over Loss Graph 
+
+
+Rishabh Soni
+    Normalization
+    Added EMA
+    Initialise Dash app
+    Added input param for Dash
+    Created directories for version control
+    Added loss and history volatiity graphs
+    Merged actual+predicted prices to graph
+    Graph loading/downloading
+    Improved UI
+    Implemented chatbox
+    Promting for OpenAI
+    Commented Code
+
+    Technical Report:
+        Aims
+
+    Assisted in:
+        Implementing OpenAI API + Functions
+        Adding grid to real-time stock price
+        ReadMe.md
+        Poster
+
+
+Reece McDermott
+    Technical Report:
+        ~
+
+    Assisted in:
+        Very Limited Research  
+        Attempted ChatGpt - generic code for example - there was not a specfic API key 
+
+
+Steven Li
+    Development lead
+    Build the LSTM model
+    Initialised/Maintained version control
+    Formatted/Partitioned code
+    ReadMe.md
+    Added input param for model
+    Implemented OpenAI API + Functions
+    Modified and added elements to ui
+    Improved callback functionality
+    Added gridding for real-time stock price
+    Implementing GPT summarise stock description
+    Added graphing functionality
+    Added debug messages
+    Added unit testing
+    Commented Code
+
+    Technical Report:
+        LSTM
+    
+    Assisted in:
+        Poster
+        Abstract
